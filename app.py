@@ -10,4 +10,4 @@ def image2text(url):
     print(text)
     return text
 
-image2text('abbas.jpg')
+image2text('3.jpg')
